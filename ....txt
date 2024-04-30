@@ -1,0 +1,103 @@
+// C++ code
+//
+int VermelhoPin = 4;
+int AzulPin = 5;
+int VerdePin = 6;
+int Laranja = 7;
+
+void setup()
+{
+  pinMode(VermelhoPin, OUTPUT);
+   pinMode(AzulPin, OUTPUT);
+   pinMode(VerdePin, OUTPUT);
+   pinMode(Laranja, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(VermelhoPin, LOW);
+  digitalWrite(AzulPin, LOW);
+  digitalWrite(VerdePinN, LOW);
+  digitalWrite(LaranjaPin, LOW);
+  delay(2000); 
+  
+   digitalWrite(VermelhoPin, HIGH);
+  digitalWrite(AzulPin, LOW);
+  digitalWrite(VerdePinN, LOW);
+  digitalWrite(LaranjaPin, LOW);
+  delay(2000);
+  
+   digitalWrite(VermelhoPin, LOW);
+  digitalWrite(AzulPin, HIGH);
+  digitalWrite(VerdePinN, LOW);
+  digitalWrite(LaranjaPin, LOW); 
+  delay(2000)
+  
+  digitalWrite(VermelhoPin, LOW);
+  digitalWrite(AzulPin, LOW);
+  digitalWrite(VerdePinN, HIGH);
+  digitalWrite(LaranjaPin, LOW);
+  delay(2000)
+    
+   digitalWrite(VermelhoPin, LOW);
+  digitalWrite(AzulPin, LOW);
+  digitalWrite(VerdePinN, LOW);
+  digitalWrite(LaranjaPin, HIGH);
+  delay(2000)
+ 
+  
+   digitalWrite(VermelhoPin, HIGH);
+  digitalWrite(AzulPin, LOW);
+  digitalWrite(VerdePinN, LOW);
+  digitalWrite(LaranjaPin, LOW);
+  delay(2000)
+  
+   digitalWrite(VermelhoPin, LOW);
+  digitalWrite(AzulPin, HIGH);
+  digitalWrite(VerdePinN, LOW);
+  digitalWrite(LaranjaPin, LOW);
+  delay(2000)
+  
+   digitalWrite(VermelhoPin, LOW);
+  digitalWrite(AzulPin, LOW);
+  digitalWrite(VerdePinN, HIGH);
+  digitalWrite(LaranjaPin, LOW);
+  delay(2000)
+  
+   digitalWrite(VermelhoPin, LOW);
+  digitalWrite(AzulPin, LOW);
+  digitalWrite(VerdePinN, LOW);
+  digitalWrite(LaranjaPin, HIGH);
+  delay(2000)
+
+   digitalWrite(VermelhoPin, HIGH);
+  digitalWrite(AzulPin, LOW);
+  digitalWrite(VerdePinN, LOW);
+  digitalWrite(LaranjaPin, LOW);
+  delay(2000)
+  
+    digitalWrite(VermelhoPin, LOW);
+  digitalWrite(AzulPin, HIGH);
+  digitalWrite(VerdePinN, LOW);
+  digitalWrite(LaranjaPin, LOW);
+  delay(2000)
+    
+
+   digitalWrite(VermelhoPin, LOW);
+  digitalWrite(AzulPin, LOW);
+  digitalWrite(VerdePinN, HIGH);
+  digitalWrite(LaranjaPin, LOW);
+  delay(2000)
+    
+    digitalWrite(VermelhoPin, LOW);
+  digitalWrite(AzulPin, LOW);
+  digitalWrite(VerdePinN, LOW);
+  digitalWrite(LaranjaPin, HIGH);
+  delay
+    
+    digitalWrite(VermelhoPin, HIGH);
+  digitalWrite(AzulPin, LOW);
+  digitalWrite(VerdePinN, LOW);
+  digitalWrite(LaranjaPin, LOW);
+  delay
+    
